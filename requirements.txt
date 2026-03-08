@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pymongo[srv]
+dnspython
+pydantic
+PyJWT
+bcrypt
+python-multipart
